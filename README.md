@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m @Chiemerie960 </h1>
+<h1>👋 Hi, I’m <b>EmerieX</b> </h1>
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate with anyone
