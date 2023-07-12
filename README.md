@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m <b>EmerieX</b> </h1>
+ <center><h1>👋 Hi, I’m <b>EmerieX</b> </h1></center>
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate with anyone
